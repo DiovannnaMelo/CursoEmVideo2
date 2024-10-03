@@ -23,3 +23,4 @@ print(f"lista em ordem crescente é {lista}")
 
 
 
+
