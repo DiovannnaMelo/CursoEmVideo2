@@ -12,4 +12,6 @@ if dicionario["média"]>=7:
 else:
     dicionario["situação"]= "reprovado" 
 
-print(dicionario)
+print(f"o nome é igual a {dicionario["nome"]}")
+print(f"sua media é igual a {dicionario["média"]}")
+print(f"sua situação é igual a {dicionario["situação"]}")
